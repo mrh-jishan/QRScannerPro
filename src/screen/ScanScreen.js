@@ -21,7 +21,7 @@ class ScanScreen extends Component {
                 topContent={
                     <Text style={styles.centerText}>
                         Go to{' '}
-                            <Text style={styles.textBold}>wikipedia.org/wiki/QR_code</Text>
+                            <Text style={styles.textBold}>Scan Your QR</Text>
                     </Text>
                 }
                 bottomContent={
